@@ -1,0 +1,7 @@
+toml
+fastmcp
+redis
+pymongo
+python-dotenv
+mcp[cli]
+pydantic

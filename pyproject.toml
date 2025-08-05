@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "poma-mcp"
+version = "0.1.0"
+description = "A Python-based MCP server."
+authors = ["2B3 PRODUCTIONS LLC <2b3pro@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+model-context-protocol = "^0.1.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
